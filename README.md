@@ -1,5 +1,5 @@
 # MontMarie
-Architecture proposal for mobile blockchain like data storage
+Architecture proposal for mobile blockchain-like data storage
 
 ## Proposed Spec - Rev 190322 2249 - v0.01d
 
@@ -20,7 +20,7 @@ This specification is focused on:
     * Magnet-like invitations
     * medium size networks
 * Encrypted communications
-    * Multi protocol: webrtc, udp, tcp
+    * Multi protocol: webrtc (there is a challenge with the signaling server), udp, tcp
 
 **Note: this spec be in constant change until future notice (until the model convergence of 3 case apps)**
 
@@ -52,12 +52,15 @@ As most of the ledgers are working like the last, it will have low priority
 
 ## Usage / example concepts
 
+## Implementation Status
+
+
 ## License
 
 Mpl 2.0
 
 ## Author
 
-Gonzalo Covarrubias
+GoCova
 
 ## Motivation
