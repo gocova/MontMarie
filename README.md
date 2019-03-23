@@ -22,7 +22,7 @@ This specification is focused on:
 * Encrypted communications
     * Multi protocol: webrtc (there is a challenge with the signaling server), udp, tcp
 
-**Note: this spec be in constant change until future notice (until the model convergence of 3 case apps)**
+**Note: this spec be in constant change until future notice (until the model converge for 3 case apps)**
 
 The expected initial implementation of modules will be for: javascript / typescript, scala and swift
 
